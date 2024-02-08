@@ -171,3 +171,4 @@ dbt_vis.py
 head_vis.py
 .DS*
 yolo/custom_dataset/
+yolo/README*
